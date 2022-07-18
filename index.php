@@ -6,9 +6,9 @@
         <!-- Required meta tags -->
             <meta charset="utf-8">
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-            <meta name="description" content="Projeto para fins didaticos e informativos sobre uma obra e um assunto de psicológia.">
-            <meta name="keywords" content="Pmma, mentes ansiosas, mentes, Ana Beatriz Barbosa Silva, psicológia, psiquiatria">
-            <meta name="author" content="Charles Dantas">
+            <meta name="description" content="Projeto para fins didaticos e informativos sobre uma obra e um assunto de psicologia.">
+            <meta name="keywords" content="Pmma, mentes ansiosas, mentes, Ana Beatriz Barbosa Silva, psicologia, psiquiatria">
+            <meta name="author" content="Charles Dantas, Antonio Vinicius e Gabriel Everton">
         <!-- End required meta tags -->
 
         <!-- Bootstrap, css, materialize -->
